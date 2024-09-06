@@ -232,3 +232,18 @@ footer{
 .center{
     text-align: center;
 }
+.calc{
+    height: 80px;
+    display :flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.buttons{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    
+}
